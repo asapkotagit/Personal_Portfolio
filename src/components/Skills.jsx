@@ -9,7 +9,7 @@ import css from "../assets/css.png";
 const Skills = () => {
   return (
     <div name="skills" className="bg-[#0a192f] w-full h-screen text-gray-300">
-      /* Container */
+      {/* Container */}
       <div className="max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full">
         <div>
           <p className="text-4xl font-bold inline border-b-4 border-pink-600">
@@ -56,7 +56,7 @@ const Skills = () => {
             <img
               className="w-20 mx-auto hover:scale-110 duration-500"
               src={node}
-              alt="Image of NODE JS logo"
+              alt="NODE JS logo"
             />
             <p className="py-4">NODE JS</p>
           </div>
