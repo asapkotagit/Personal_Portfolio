@@ -105,7 +105,7 @@ const Navbar = () => {
           <li className="w-[80px] md:w-[142px] lg:w-[160px] h-[40px] lg:h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#333333]">
             <a
               className="flex justify-between items-center w-full text-gray-300 "
-              href="https://www.github.com"
+              href="https://github.com/asapkotagit"
             >
               Github
               <FaGithub className="mr-[-10px] lg:mr-0 duration-300" size={30} />
@@ -114,7 +114,7 @@ const Navbar = () => {
           <li className="w-[80px] md:w-[142px] lg:w-[160px] h-[40px] lg:h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#6fb2b0]">
             <a
               className="flex justify-between items-center w-full text-gray-300 "
-              href="https://www.fb.com"
+              href="sapkotaamit1@gmail.com"
             >
               Email
               <HiOutlineMail
@@ -126,7 +126,7 @@ const Navbar = () => {
           <li className="w-[80px] md:w-[142px] lg:w-[160px] h-[40px] lg:h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#565f69]">
             <a
               className="flex justify-between items-center w-full text-gray-300 "
-              href="https://www.fb.com"
+              href="https://www.google.com/docs/about/"
             >
               Resume
               <BsFillPersonLinesFill
